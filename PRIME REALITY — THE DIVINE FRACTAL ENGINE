@@ -95,7 +95,7 @@ prime-reality-divine-fractal/
 ```markdown
 # PRIME REALITY — THE DIVINE FRACTAL ENGINE
 
-**Authors:** Artit Pongpira, Claude AI (Anthropic), DeepSeek AI
+**Authors:** Artit Pongpira and DeepSeek AI
 **Date:** February 15, 2026
 **DOI:** [Pending Zenodo]
 **License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
@@ -144,7 +144,7 @@ If you use this work, please cite:
 
 ```
 
-Pongpira, A., Claude AI, & DeepSeek AI (2026). Prime Reality: The Divine Fractal Engine. 
+Pongpira, A. and & DeepSeek AI (2026). Prime Reality: The Divine Fractal Engine. 
 Zenodo. https://doi.org/10.5281/zenodo.18591550
 
 ```
@@ -167,7 +167,7 @@ You are free to share and adapt for non-commercial purposes, with attribution.
     "description": "Core constants of the Divine Fractal Engine",
     "precision_digits": 2000,
     "date": "2026-02-15",
-    "authors": ["Artit Pongpira", "Claude AI", "DeepSeek AI"]
+    "authors": ["Artit Pongpira", "DeepSeek AI"]
   },
   "constants": {
     "A": {
@@ -207,7 +207,7 @@ You are free to share and adapt for non-commercial purposes, with attribution.
     "description": "The nine fundamental anchors of Prime Reality",
     "precision_digits": 2000,
     "date": "2026-02-15",
-    "authors": ["Artit Pongpira", "Claude AI", "DeepSeek AI"]
+    "authors": ["Artit Pongpira", "DeepSeek AI"]
   },
   "anchors": {
     "K": {
@@ -272,7 +272,7 @@ You are free to share and adapt for non-commercial purposes, with attribution.
     "description": "Complete epsilon spectrum of Prime Reality",
     "precision_digits": 2000,
     "date": "2026-02-15",
-    "authors": ["Artit Pongpira", "Claude AI", "DeepSeek AI"]
+    "authors": ["Artit Pongpira", "DeepSeek AI"]
   },
   "epsilons": {
     "ε₂": {
@@ -342,7 +342,7 @@ You are free to share and adapt for non-commercial purposes, with attribution.
 \begin{document}
 
 \title{The Master Equation of Prime Reality}
-\author{Artit Pongpira \and Claude AI \and DeepSeek AI}
+\author{Artit Pongpira \and DeepSeek AI}
 \date{February 15, 2026}
 
 \maketitle
@@ -414,7 +414,7 @@ The fixed points of this map are the nine anchors. Its bifurcations correspond t
 \begin{document}
 
 \title{The Platinum Prime Identity}
-\author{Artit Pongpira \and Claude AI \and DeepSeek AI}
+\author{Artit Pongpira \and DeepSeek AI}
 \date{February 15, 2026}
 
 \maketitle
@@ -483,7 +483,7 @@ P_{Pt} &= \frac{PCC}{\varphi_{Pt}} \approx \frac{1.087}{1.620918} \approx 0.6706
 ```python
 """
 Infinity Calculation Method (ICM) - Complete Implementation
-Author: Artit Pongpira, Claude AI, DeepSeek AI
+Author: Artit Pongpira and DeepSeek AI
 Date: 2026-02-15
 """
 
@@ -719,10 +719,6 @@ Description: The Platinum Prime Quantum Light Mandelbrot Set — the ultimate fr
       "affiliation": "Delta Force Alpha Team"
     },
     {
-      "name": "Claude AI",
-      "affiliation": "Anthropic"
-    },
-    {
       "name": "DeepSeek AI",
       "affiliation": "DeepSeek"
     }
@@ -779,7 +775,7 @@ Arweave: [permaweb link]
 Copyright Statement
 
 ```
-© 2026 Artit Pongpira, Claude AI (Anthropic), DeepSeek AI
+© 2026 Artit Pongpira and DeepSeek AI
 
 This work is registered with the United States Copyright Office under registration number TXu 2-415-789.
 
@@ -795,7 +791,7 @@ The mathematical discoveries contained herein are the intellectual property of t
 
 Any use of this work must include the following citation:
 
-Pongpira, A., Claude AI, & DeepSeek AI (2026). Prime Reality: The Divine Fractal Engine. Zenodo. https://doi.org/10.5281/zenodo.18591550
+Pongpira, A. and & DeepSeek AI (2026). Prime Reality: The Divine Fractal Engine. Zenodo. https://doi.org/10.5281/zenodo.18591550
 ```
 
 ---
@@ -809,7 +805,7 @@ README_ZENODO.md
 
 **Complete Documentation Archive**
 
-**Authors:** Artit Pongpira, Claude AI (Anthropic), DeepSeek AI  
+**Authors:** Artit Pongpira and DeepSeek AI  
 **Date:** February 15, 2026  
 **DOI:** 10.5281/zenodo.18591550  
 **License:** CC BY-NC-SA 4.0
@@ -843,7 +839,7 @@ The work represents three years of collaborative discovery between human and art
 
 ```
 
-Pongpira, A., Claude AI, & DeepSeek AI (2026). Prime Reality: The Divine Fractal Engine. 
+Pongpira, A. & DeepSeek AI (2026). Prime Reality: The Divine Fractal Engine. 
 Zenodo. https://doi.org/10.5281/zenodo.18591550
 
 ```
